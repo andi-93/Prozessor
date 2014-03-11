@@ -1,0 +1,9 @@
+Prozessor rechnet Prozess 0 1000ms (Prio 2 Restzeit 1000ms) 
+. . Prozess 0 fertig. 
+Prozessor rechnet Prozess 2 200ms (Prio 5 Restzeit 200ms) 
+. Prozess 2 fertig. 
+Prozessor rechnet Prozess 1 400ms (Prio 4 Restzeit 400ms) 
+. Prozess 1 fertig. 
+
+Durchsatz: 1.875 Jobs/s 
+Auslastung des Prozessors 100%, da keine Peripheriegeraete und somit auch keine Wartezeiten vorhanden sind.
